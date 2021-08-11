@@ -1,2 +1,5 @@
-# Projeto-Leiloes-Selenuim
-Projeto do curso Teste de aceitação em java usando Selenuim.
+#Projeto-leiloes-seleniun
+ESTE PROJETO FOI USADO PARA TRABALHAR COM TESTES AUTOMATIZADOS DE ACEITAÇÃO EM JAVA COM O SELENIUN NO CURSO DA ALURA.
+
+STACKS ULTILIZADAS
+Java 8, tymeleaf, SpringBoot, seleniun, maven, h2, Jpa
